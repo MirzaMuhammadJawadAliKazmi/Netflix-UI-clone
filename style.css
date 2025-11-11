@@ -1,0 +1,178 @@
+body{
+    background-color: black;
+    overflow-x: hidden;
+}
+.main{
+        background-image: url("bg.jpg");
+    background-position: center center;
+    background-size: max(1200px, 100vw);
+    background-repeat: no-repeat;
+    height: 644px;
+    position: relative;
+}
+
+.container1{
+    display: flex;
+    justify-content: space-between;
+}
+.nav{
+    position: relative;
+    top: 10px;
+    display: flex;
+    /* border: 1px solid; */
+    width: 150px;
+    justify-content: space-between;
+}
+.item2{
+ height: 25px;
+    border: 1px solid black;
+width: 70px;
+text-align: center;
+color: white;
+background-color: red;
+}
+.item1{
+    height: 25px;
+    border: 1px solid black;
+    color: white;
+    background-image: transparent;
+    width: 70px;
+    text-align: center;
+}
+.hero{
+    font-size: 25px;
+    color: white;
+    text-align: center;
+    position: relative;
+    top: 100px;
+}
+#input{
+    font-size: 30px;
+    position: relative;
+    top: 12px;
+}
+label{
+    position: relative;
+    top: 22px;
+    border: 1px solid red;
+    font-family: monospace;
+    background-color: red;
+}
+hr{
+    height: 12px;
+    background-color: #fff;
+    position: relative;
+    top: 190px;
+}
+.h1{
+    position: relative;
+    top: 230px;
+    left: -300px;
+}
+.hero2{
+     position: relative;
+    top: 240px;
+    left: -145px;
+}
+#img{
+    position: relative;
+    top: 250px;
+}
+#video1{
+    position: relative;
+    top: 130px;
+    left: -560px;
+    z-index: -1;
+}
+#img1{
+    position: relative;
+    top: 290px;
+}
+#myh1{
+    position: relative;
+    top: 280px;
+}
+.mypara{
+     position: relative;
+    top: 300px;
+}
+.mylastpara{
+     position: relative;
+    top: 400px;
+}
+.myheading{
+     position: relative;
+    top: 300px;
+}
+.myhr1{
+    position: relative;
+    top: 290px;
+}
+.cont2{
+    position: relative;
+    top: 190px;
+}
+.hrc{
+    position: relative;
+    top: 370px;
+}
+#img6{
+    position: relative;
+    top: 400px;
+}
+.childp{
+    position: relative;
+    top: 300px;
+}
+.child{
+    position: relative;
+    top: 300px;
+}
+.newhr{
+    position: relative;
+    top: 300px;
+}
+.container7{
+    position: relative; 
+    top: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+}
+.button1{
+    width: 600px;
+    border: 1px solid white;
+    height: 80px;   
+}
+.newhr1{
+    position: relative;
+    top: 400px;
+}
+.ft{
+    position: relative;
+    top: 600px;
+    left: -350px;
+}
+.lastq{
+    position: relative;
+    top: 580px;
+    left: -390px;
+}
+.links{
+    display: flex;
+ flex-direction: column;   
+}
+.lastdiv{
+    display: flex;
+    flex-direction: column;
+}
+.foot{
+    position: relative;
+    top: 170px;
+    left: 300px;
+}
+hr{
+    background-color: #8e8383df;
+}
